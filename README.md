@@ -2,16 +2,26 @@
 
 ###
 
+<br clear="both">
+
+<h5 align="left">My name is LuisVictor and i´m a undergratuate Software Engineer</h5>
+
+###
+
+<br clear="both">
+
+<h6 align="left">About me:<br><br>- 21 y old<br>- Live in Teresina-Pi 🌍 <br>- Student at iCev College 📝</h6>
+
+###
+
 <h2 align="left">Take a look at my Stats 📈 🧑🏻‍💻 :</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LuixCabral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuixCabral&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuixCabral&radius=16&theme=tokyo-day&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -44,5 +54,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="33" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="33" alt="gmail logo"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
