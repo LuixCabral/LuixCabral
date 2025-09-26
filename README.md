@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Where to find me and who I am <br>📧 :</h2>
+<h2 align="left">Where to find me and who I am <br>:</h2>
 
 ###
 
