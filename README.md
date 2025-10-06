@@ -15,18 +15,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuixCabral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuixCabral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LuixCabral&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph.svg">
-</picture>
+<h1 align="left"></h1>
 
 ###
 
@@ -57,5 +52,17 @@
   <img width="10" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" alt="jira logo"  />
 </div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LuixCabral/LuixCabral/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
