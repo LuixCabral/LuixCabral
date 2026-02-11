@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">My name is Luis Victor , i´m a undergraduate Software Engineer at iCev college . My main goal is  generate insights for companies by solving business problems using Machine Learning algorithms . At the moment  i´m looking for a opportunity as a Data Scientist .</p>
-
 ###
 
 <div align="center">
