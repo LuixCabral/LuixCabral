@@ -13,7 +13,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuixCabral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="125" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=LuixCabral&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="125" alt="streak graph"  />
 </div>
 
